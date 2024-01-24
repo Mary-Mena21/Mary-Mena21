@@ -14,6 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  
+- 🔭 I’m currently working on honing my skills as a Full Stack Software Developer, with a focus on building robust applications and exploring the latest in web technologies.
+
+- 🌱 I’m currently learning more about advanced React.js patterns and diving deeper into server-side development with C# .NET.
+
+- 👯 I’m looking to collaborate on innovative projects that blend design and development, creating seamless user experiences.
+
+- 🤔 I’m looking for help with staying updated on industry best practices and discovering new ways to optimize code efficiency.
+
+- 💬 Ask me about my journey from architectural drafting to software development, or anything related to JavaScript, React, and C#.
+
+- 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mariana-mena-dev) or drop me an email at marianashokry@yahoo.com.
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I'm not just passionate about code; I also enjoy bringing creativity to life through graphic design and architectural concepts.
+
+
+
+
 
 👋 Hello, I'm Mariana Mena, a motivated software developer with a unique background in architectural drafting and graphic design. My journey started in creating precise 2D and 3D CAD drawings for engineering and architectural projects, where attention to detail became second nature.
 
