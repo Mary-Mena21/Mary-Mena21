@@ -18,3 +18,5 @@ Skills: Software Developer | C#/.NET. React.js · SQL · Figma · HTML · CSS ·
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mary-Mena21)  
 
+(https://github.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>]
