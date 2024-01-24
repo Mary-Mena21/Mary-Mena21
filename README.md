@@ -44,9 +44,7 @@ Skills: Software Developer | C#/.NET. React.js · SQL · Figma · HTML · CSS ·
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mary-Mena21&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mary-Mena21/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mary-Mena21)  
+   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mary-Mena21)  
 
