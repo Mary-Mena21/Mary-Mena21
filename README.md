@@ -1,4 +1,6 @@
-👋 Hello, I'm Mariana Mena, a motivated software developer with a unique background in architectural drafting and graphic design. My journey started in creating precise 2D and 3D CAD drawings for engineering and architectural projects, where attention to detail became second nature.
+### 👋 Hello, I'm Mariana Mena!
+
+## Software Developer with a background in architectural drafting and graphic design. Started in precise 2D/3D CAD for engineering, where attention to detail became second nature. 👩‍💻✨
 
 - 🚀 Transitioning into the world of software development, I'm passionate about technology and committed to continuous growth. As a Full Stack Software Developer, I've honed my skills in JavaScript, React.js, C# .NET, and more.
 
@@ -8,8 +10,6 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mariana-mena-dev) | [GitHub](https://github.com/Mary-Mena21)
 
-
-🚀 Software Developer with a background in architectural drafting and graphic design. Started in precise 2D/3D CAD for engineering, where attention to detail became second nature. 👩‍💻✨
 
 Skills: Software Developer | C#/.NET. React.js · SQL · Figma · HTML · CSS · Web Design · JavaScript · GitHub · Terminal · Git BASH . AutoCAD · Revit . Photoshop
 
