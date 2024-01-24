@@ -11,7 +11,7 @@ Software Developer with a background in architectural drafting and graphic desig
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mariana-mena-dev) | [GitHub](https://github.com/Mary-Mena21)
 
 
-##Skills: 
+## Skills: 
 Software Developer | C#/.NET. React.js · SQL · Figma · HTML · CSS · Web Design · JavaScript · GitHub · Terminal · Git BASH . AutoCAD · Revit . Photoshop
 
 
