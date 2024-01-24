@@ -13,12 +13,11 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mariana-mena-dev) | [GitHub](https://github.com/Mary-Mena21)
 
-
-
+![GithubBanner2](https://github.com/Mary-Mena21/Mary-Mena21/assets/85176043/382969d8-5dce-45fd-ab80-ba5ebd661a18)
 
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.canva.com/design/DAF60ij3H0s/ysNGFwgcVJkC4paUx6rkbw/view?utm_content=DAF60ij3H0s&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+
 
 🚀 Software Developer with a background in architectural drafting and graphic design. Started in precise 2D/3D CAD for engineering, where attention to detail became second nature. 👩‍💻✨
 
