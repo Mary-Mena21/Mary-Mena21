@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Mariana Mena!
 
-#### Software Developer with a background in architectural drafting and graphic design. Started in precise 2D/3D CAD for engineering, where attention to detail became second nature. 👩‍💻✨
+# Software Developer with a background in architectural drafting and graphic design. Started in precise 2D/3D CAD for engineering, where attention to detail became second nature. 👩‍💻✨
 
 - 🚀 Transitioning into the world of software development, I'm passionate about technology and committed to continuous growth. As a Full Stack Software Developer, I've honed my skills in JavaScript, React.js, C# .NET, and more.
 
