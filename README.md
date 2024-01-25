@@ -22,3 +22,4 @@ Hi there, I'm Mariana Menae, a Software Developer with a background in architect
 
 ## My GitHub Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mary-Mena21)  
+![HandGIF (2)](https://github.com/Mary-Mena21/Mary-Mena21/assets/85176043/4b8f1dba-32c1-4f5c-8c29-4165267fa929)
