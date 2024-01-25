@@ -21,6 +21,8 @@ Hi there, I'm Mariana Menae, a Software Developer with a background in architect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mary-Mena21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/marianamena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mariana-mena-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Mariana-Mena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Mariana-Mena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23293853/mariana-mena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/IAwele)  
 
 [<img src='http://www.w3.org/2000/svg' alt='Replit' height='40'>](https://replit.com/@Mary-Mena21) 
+![Simpleicons-Team-Simple-Replit 512](https://github.com/Mary-Mena21/Mary-Mena21/assets/85176043/844410a6-7ed3-4f39-9f4f-1cddd953fe30)
+
 
 ## My GitHub Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mary-Mena21)  
